@@ -1,0 +1,2 @@
+Add text, save, then stage!
+This is the text I am adding.
